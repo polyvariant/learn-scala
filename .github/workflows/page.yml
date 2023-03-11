@@ -37,9 +37,6 @@ jobs:
           github-corners: https://github.com/polyvariant/learn-scala
           description: Reference learning material for Scala 
           dark-mode: false # Do not disable light and dark theme styles button.
-      - name: Create index file
-        run: |
-          mv README.html index.html
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
