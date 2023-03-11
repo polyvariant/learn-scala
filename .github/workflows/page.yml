@@ -29,10 +29,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Convert Markdown to HTML
-        uses: natescherer/markdown-to-html-with-github-style-action@v1.1.0
+      - name: Converts Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@v3.4.5
         with:
-          path: README.md
+          source: README.md
+          output: index.html
+          github-corners: https://github.com/polyvariant/learn-scala
+          description: Reference learning material for Scala 
+          dark-mode: false # Do not disable light and dark theme styles button.
       - name: Create index file
         run: |
           mv README.html index.html
