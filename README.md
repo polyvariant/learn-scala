@@ -13,10 +13,33 @@ The list is still incomplete, any additional resources for existing sections or 
  - Hands on Scala by Li Haoi https://www.handsonscala.com/chapter-1-hands-on-scala.html
  - Scala with Cats by Underscore https://www.scalawithcats.com/dist/scala-with-cats.html 
  - Functional Programming in Scala by Martin Odersky https://www.coursera.org/learn/progfun1 
- - Dev inside you - various scala lessons https://www.youtube.com/channel/UCSBUwLT9zXhUalKfJrc2q2A/videos 
  - Strategic Scala Style: Principle of Least Power by Li Haoi https://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html 
  - Lightbend Scala Language - Professional https://academy.lightbend.com/courses/course-v1:lightbend+LSL-P-Scala-Language-Professional+v1/about 
 
+---
+## Blogs, newsletters and channels
+- Softwaremill 
+  - Scala Times newsletter https://scalatimes.com/
+  - Blog https://softwaremill.com/blog/
+- Petr Zapletal 
+  - https://petr-zapletal.medium.com/
+- Salar Rahmanian
+  - Scala news https://www.scalanews.net/
+- Daniel Ciocîrlan
+  - https://www.youtube.com/@rockthejvm/videos
+  - https://blog.rockthejvm.com/
+- Jakub Kozłowski 
+  - https://www.youtube.com/@kubukoz_/videos
+  - https://blog.kubukoz.com/
+- Dev inside you 
+  - https://www.youtube.com/@DevInsideYou/videos
+  - https://devinsideyou.com/
+- Li Haoyi
+  - https://www.lihaoyi.com/ 
+- Michał Pawlik
+  - https://blog.michalp.net/
+
+---
 ## Language aspects
 
 ### Type system hierarchy
@@ -56,20 +79,49 @@ The list is still incomplete, any additional resources for existing sections or 
  - https://docs.scala-lang.org/overviews/core/futures.html 
  - https://danielwestheide.com/blog/the-neophytes-guide-to-scala-part-8-welcome-to-the-future/ 
 
+---
 
-## Advanced Scala usage
+## Advanced Scala usage and libraries
 
-### Slick
+### Databases
+
+#### Slick
  - https://scala-slick.org/doc/3.3.1/introduction.html 
  - https://books.underscore.io/essential-slick/essential-slick-3.html 
 
-### Circe - working with Json
+#### Doobie
+ - https://tpolecat.github.io/doobie/
+
+#### Quill
+ - https://getquill.io/
+ - https://zio.dev/zio-quill/
+ - https://github.com/zio/zio-protoquill
+
+### Working with Json
+
+#### Circe  
  - https://circe.github.io/circe/ 
+
+#### Jsoniter Scala
+ - https://github.com/plokhotnyuk/jsoniter-scala
+ - https://blog.lambdaspot.dev/the-fastest-and-safest-json-parser-and-serializer-for-scala
 
 ### IO
  - https://typelevel.org/cats-effect/datatypes/io.html 
  - https://typelevel.org/blog/2017/05/02/io-monad-for-cats.html 
  - https://medium.com/walmartlabs/understanding-io-monad-in-scala-b495ca572174 
+
+### ZIO
+ - https://zio.dev/
+
+### Monix
+ - https://monix.io/
+
+### Messaging
+
+#### pass4s
+ - https://ocadotechnology.github.io/pass4s/
+ - https://blog.michalp.net/posts/scala/pass4s-basics/
 
 ### Type classes
  - https://tpolecat.github.io/2013/10/12/typeclass.html 
@@ -96,3 +148,14 @@ The list is still incomplete, any additional resources for existing sections or 
 ### FP in general
  - https://github.com/mmenestret/fp-resources 
  - http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+
+### Streaming
+
+#### FS2
+ - https://fs2.io/
+
+### OAuth2
+
+#### sttp-oauth2
+ - https://ocadotechnology.github.io/sttp-oauth2/
+ - https://blog.michalp.net/posts/scala/oauth2-app-p1/
