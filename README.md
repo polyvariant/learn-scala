@@ -18,6 +18,7 @@ The list is still incomplete, any additional resources for existing sections or 
  - Lightbend Scala Language - Professional https://academy.lightbend.com/courses/course-v1:lightbend+LSL-P-Scala-Language-Professional+v1/about 
  - Foundations of Functional Programming in Scala https://www.youtube.com/watch?v=OdPaWmRnAc4&list=PLiYD0LWExCDkXGpYRY3WjNscDfhe4D0ND
  - (paid) Inner-product training https://www.inner-product.com/services/training/
+ - (paid) Zainab Ali's training https://kebab-ca.se/training.html
 
 ---
 
