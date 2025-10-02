@@ -36,7 +36,7 @@ The list is still incomplete, any additional resources for existing sections or 
   - https://www.youtube.com/@rockthejvm/videos
   - https://blog.rockthejvm.com/
 - Jakub Kozłowski 
-  - https://www.youtube.com/@kubukoz_/videos
+  - https://www.youtube.com/@kubukoz/videos
   - https://blog.kubukoz.com/
 - Dev inside you 
   - https://www.youtube.com/@DevInsideYou/videos
