@@ -28,22 +28,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Converts Markdown to HTML
         uses: jaywcjlove/markdown-to-html-cli@v3.4.5
         with:
           source: README.md
           output: index.html
           github-corners: https://github.com/polyvariant/learn-scala
-          description: Reference learning material for Scala 
+          description: Reference learning material for Scala
           dark-mode: false # Do not disable light and dark theme styles button.
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
