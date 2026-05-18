@@ -22,3 +22,16 @@ title = "Blogs & channels"
   - https://www.lihaoyi.com/
 - Michał Pawlik
   - https://blog.michalp.net/
+- Bahul Jain, HKT and Morgen Peschke
+  - https://blog.rhetoricalmusings.com
+- Alexandru Nedelcu
+  - https://alexn.org/
+- Alexis Hernandez
+  - https://alexitc.com/
+- Bartłomiej Kozak
+  - https://halotukozak.github.io/
+- Maksym Ochenashko
+  - https://ochenashko.com/
+- Mark Galea
+  - https://cloudmark.github.io/
+
