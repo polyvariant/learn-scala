@@ -6,7 +6,7 @@ title = "Blogs & channels"
   - Scala Times newsletter https://scalatimes.com/
   - Blog https://softwaremill.com/blog/
 - Petr Zapletal
-  - https://petr-zapletal.medium.com/
+  - https://thisweekinscala.substack.com/
 - Salar Rahmanian
   - Scala news https://www.scalanews.net/
 - Daniel Ciocîrlan
