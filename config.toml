@@ -50,3 +50,7 @@ style = "github-dark"
   name = "Libraries"
   weight = 4
   url = "/libraries"
+[[menu.main]]
+  name = "AI & LLMs"
+  weight = 5
+  url = "/ai"

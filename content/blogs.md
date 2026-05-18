@@ -6,7 +6,7 @@ title = "Blogs & channels"
   - Scala Times newsletter https://scalatimes.com/
   - Blog https://softwaremill.com/blog/
 - Petr Zapletal
-  - https://petr-zapletal.medium.com/
+  - https://thisweekinscala.substack.com/
 - Salar Rahmanian
   - Scala news https://www.scalanews.net/
 - Daniel Ciocîrlan
@@ -22,3 +22,16 @@ title = "Blogs & channels"
   - https://www.lihaoyi.com/
 - Michał Pawlik
   - https://blog.michalp.net/
+- Bahul Jain, HKT and Morgen Peschke
+  - https://blog.rhetoricalmusings.com
+- Alexandru Nedelcu
+  - https://alexn.org/
+- Alexis Hernandez
+  - https://alexitc.com/
+- Bartłomiej Kozak
+  - https://halotukozak.github.io/
+- Maksym Ochenashko
+  - https://ochenashko.com/
+- Mark Galea
+  - https://cloudmark.github.io/
+
